@@ -14,7 +14,7 @@
    
 ## Github commands use:
 
-git add .
-git commit -m "message"
-git pull origin main
-git push origin main
+1. git add .
+2. git commit -m "message"
+3. git pull origin main
+4. git push origin main
