@@ -64,8 +64,6 @@ const Posts = () => {
 
   return (
     <div className="p-4 min-h-screen bg-gray-100 font-inter antialiased">
-      <script src="https://cdn.tailwindcss.com"></script>
-
       <h2 className="text-3xl font-bold text-gray-800 mb-6 text-center">Products Page</h2>
 
       <div className="max-w-md mx-auto mb-8">
